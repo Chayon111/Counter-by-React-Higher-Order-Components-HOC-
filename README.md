@@ -1,8 +1,8 @@
-# React + Vite
+# Counter-by-React-Higher-Order-Components-(HOC)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+***I did made ClickCounter, HoverCounter and a InputKeyCounter by Rule of React Higher Order Components (HOC)***
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Higher Order Component.webm](https://github.com/Chayon111/Counter-by-React-Higher-Order-Components-HOC-/assets/101303939/e55344ee-0e2c-47d7-9c65-5862b8f86daf)
+
+
